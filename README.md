@@ -4,7 +4,7 @@ My name is **Ido Hirsh**, and this is the place where I build and break things �
 - 🔭 I’m currently working on **something cool** 🙃
 - 🌱 I’m currently learning **DevOps, Python, C**
 - 💬 Ask me about **anything**
-- 📫 How to reach me: **ido.hirsh.business@gmail.com**
+- 📫 How to reach me: **ido.hirsh.dev@gmail.com**
 - ⚡ Fun fact: I'm awesome 😎
 
 #### 🔗 Connect with me
