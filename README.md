@@ -1,4 +1,4 @@
-### Hi there, I'm Ido <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Ido 👋
 My name is **Ido Hirsh**, and this is the place where I build and break things 🤣
 
 - 🔭 I’m currently working on **something cool** 🙃
